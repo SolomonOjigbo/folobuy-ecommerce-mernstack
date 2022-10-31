@@ -1,10 +1,13 @@
-import Counter from "./features/counter/Counter";
+import { BrowserRouter } from "react-router-dom";
+import Home from "./pages/Home";
 
 function App() {
 	return (
-		<main className="App">
-			<Counter />
-		</main>
+		<>
+			<BrowserRouter>
+				<Home />
+			</BrowserRouter>
+		</>
 	);
 }
 
