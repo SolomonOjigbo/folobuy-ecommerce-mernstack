@@ -1,7 +1,8 @@
 import React from "react";
 import Categories from "../../components/Categories";
 import Footer from "../../components/Footer";
-import Infobar from "../../components/Infobar/Infobar";
+import Infobar from "../../components/Infobar";
+
 import Navbar from "../../components/Navbar";
 import Newsletter from "../../components/Newsletter";
 import Products from "../../components/Products";
