@@ -40,6 +40,6 @@ export const Input = styled.input`
 export const Button = styled.button`
 	flex: 1;
 	border: none;
-	background-color: teal;
+	background-color: purple;
 	color: white;
 `;
